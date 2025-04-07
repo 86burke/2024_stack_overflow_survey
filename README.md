@@ -1,8 +1,8 @@
-# 2024_stack_overflow_survey
+<h1>2024_stack_overflow_survey</h1>h1>
 
 The aim of this project is to evaluate how educational level impacts developers salaries by looking at the 2024 Stack Overflow Survey dataset
 
-Content of this repository:
+<h2>Content of this repository:</h2>
 1. Survey_analysis.ipynb
 2. 2024_stack_overflow_notebook.ipynb
 3. README.md
@@ -10,13 +10,13 @@ Content of this repository:
 5. survey_results_schema.csv
 6. us_dev_df.csv
 
-##Installation:
+<h2>Installation:</h2> 
 This repository should run without issue using Python Version 3.*.
 
-#Introduction:
+<h2>Introduction:</h2>
 As developers, we often hear about the relationship between education and salary. If you're wondering how different levels of education impact your earning potential in the tech industry, I've gathered some valuable insights to help guide your career decisions. Here’s an overview of how education levels correspond to average salaries in the field, based on recent data.
 
-#Some Questions I asked and Answered:
+<h2>Some Questions I asked and Answered:</h2>
 As shown by dat visual 3 Will my education level significantly impact my salary as a developer?
 
 Yes, based on the data, education level does have an impact on salary. For example, developers with a master's degree earn an average of  163,100,𝑤ℎ𝑒𝑟𝑒𝑎𝑠𝑡ℎ𝑜𝑠𝑒𝑤𝑖𝑡ℎ𝑗𝑢𝑠𝑡𝑎𝑛𝑎𝑠𝑠𝑜𝑐𝑖𝑎𝑡𝑒𝑑𝑒𝑔𝑟𝑒𝑒𝑚𝑎𝑘𝑒𝑎𝑟𝑜𝑢𝑛𝑑
@@ -43,6 +43,6 @@ The data shows a modest difference. Developers with just a high school diploma e
 
  Full Details can be found [HERE.](https://86burke.github.io/us_dev_analysis.html)
 
- #Licensing, Author:
+<h2>Licensing, Author:</h2>
  Licensing: Stack Overflow for the survey data. Addition details can be found [HERE.](https://survey.stackoverflow.co/)
  Author: Developed by [John Burke](https://github.com/86burke)
