@@ -10,7 +10,7 @@ Content of this repository:
 5. survey_results_schema.csv
 6. us_dev_df.csv
 
-#Installation:
+##Installation:
 This repository should run without issue using Python Version 3.*.
 
 #Introduction:
