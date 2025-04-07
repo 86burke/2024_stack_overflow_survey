@@ -10,13 +10,13 @@ Content of this repository:
 5. survey_results_schema.csv
 6. us_dev_df.csv
 
-Installation:
+#Installation:
 This repository should run without issue using Python Version 3.*.
 
-Introduction:
+#Introduction:
 As developers, we often hear about the relationship between education and salary. If you're wondering how different levels of education impact your earning potential in the tech industry, I've gathered some valuable insights to help guide your career decisions. Here’s an overview of how education levels correspond to average salaries in the field, based on recent data.
 
-Some Questions I asked and Answered:
+#Some Questions I asked and Answered:
 As shown by dat visual 3 Will my education level significantly impact my salary as a developer?
 
 Yes, based on the data, education level does have an impact on salary. For example, developers with a master's degree earn an average of  163,100,𝑤ℎ𝑒𝑟𝑒𝑎𝑠𝑡ℎ𝑜𝑠𝑒𝑤𝑖𝑡ℎ𝑗𝑢𝑠𝑡𝑎𝑛𝑎𝑠𝑠𝑜𝑐𝑖𝑎𝑡𝑒𝑑𝑒𝑔𝑟𝑒𝑒𝑚𝑎𝑘𝑒𝑎𝑟𝑜𝑢𝑛𝑑
@@ -43,6 +43,6 @@ The data shows a modest difference. Developers with just a high school diploma e
 
  Full Details can be found [HERE.](https://86burke.github.io/us_dev_analysis.html)
 
- Licensing, Author:
+ #Licensing, Author:
  Licensing: Stack Overflow for the survey data. Addition details can be found [HERE.](https://survey.stackoverflow.co/)
  Author: Developed by [John Burke](https://github.com/86burke)
