@@ -17,14 +17,14 @@ This repository should run without issue using Python Version 3.*.
 As developers, we often hear about the relationship between education and salary. If you're wondering how different levels of education impact your earning potential in the tech industry, I've gathered some valuable insights to help guide your career decisions. Here’s an overview of how education levels correspond to average salaries in the field, based on recent data.
 
 <h2>Some Questions:</h2>
-As shown by dat visual 3 Will my education level significantly impact my salary as a developer?
-Do I really need a master's degree to earn a high salary?
-Can I still earn well without a degree?
-What’s the highest salary I could earn as a developer?
-Is there a big difference between earning a high school diploma or an associate degree?
+ <p>As shown by dat visual 3 Will my education level significantly impact my salary as a developer?</p>
+ <p>Do I really need a master's degree to earn a high salary?</p>
+ <p>Can I still earn well without a degree?</p>
+ <p>What’s the highest salary I could earn as a developer?</p>
+ <p>Is there a big difference between earning a high school diploma or an associate degree?</p>
 
- Full Details can be found [HERE.](https://86burke.github.io/us_dev_analysis.html)
+ <p>Full Details can be found [HERE.](https://86burke.github.io/us_dev_analysis.html)</p>
 
 <h2>Licensing, Author:</h2>
- Licensing: Stack Overflow for the survey data. Addition details can be found [HERE.](https://survey.stackoverflow.co/)
- Author: Developed by [John Burke](https://github.com/86burke)
+  <p>Licensing: Stack Overflow for the survey data. Addition details can be found [HERE.](https://survey.stackoverflow.co/) <p>
+  <p>Author: Developed by [John Burke](https://github.com/86burke) <p>
